@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219839644948",
+    "firebase_url": "https://adhaan-bee70.firebaseio.com",
+    "project_id": "adhaan-bee70",
+    "storage_bucket": "adhaan-bee70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219839644948:android:cd2bad03cb7e550f",
+        "android_client_info": {
+          "package_name": "com.example.usama.adhaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219839644948-034t70asaegbdc2i43ur4nimob21r5ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usama.adhaan",
+            "certificate_hash": "7b24268e2b58d9132e48b96c97f36be0412126ee"
+          }
+        },
+        {
+          "client_id": "219839644948-bgmcbs8pmn5470ek0gdo4jslirjtphjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IXrEEU927Q0mNjlD6s3BVlcfzhWRj0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219839644948-bgmcbs8pmn5470ek0gdo4jslirjtphjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
